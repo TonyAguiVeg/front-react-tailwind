@@ -31,7 +31,7 @@ export default function Home() {
         <BotonBlanco texto="Iniciar sesión" />
         <BotonAzul texto="Regístrate" />
         </section>
-        <i class="bi bi-list text-4xl text-blue-950 self-auto lg:hidden cursor-pointer"></i>
+        <i className="bi bi-list text-4xl text-blue-950 self-auto lg:hidden cursor-pointer"></i>
         </section>
       </nav>
       </header>
@@ -92,7 +92,6 @@ export default function Home() {
     <span className="extrabold text-sm text-cyan-600 underline">usar un cupón o código</span><br />
     <section>
     <span className="text-blue-950 bold text-sm">Ahorro promedio*</span> 
-
     <span className="text-blue-950 bold text-sm">S/ 7.46</span></section>
     <BotonAzul texto="Regístrate" className="w-100"/>
   </section>
