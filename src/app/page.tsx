@@ -92,7 +92,7 @@ export default function Home() {
     <span className="extrabold text-sm text-cyan-600 underline">usar un cupón o código</span><br />
     <section>
     <span className="text-blue-950 bold text-sm">Ahorro promedio*</span> 
-i
+
     <span className="text-blue-950 bold text-sm">S/ 7.46</span></section>
     <BotonAzul texto="Regístrate" className="w-100"/>
   </section>
